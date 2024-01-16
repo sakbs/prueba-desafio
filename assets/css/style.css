@@ -13,14 +13,7 @@
     width: 190pt;
     height: 36pt;
 }
-.cupon{
-    display: flex;
-    justify-content: space-evenly;
-}
-.enviar{
-    display: flex;
-    justify-content: center;
-}
+
 .imagen{
     width: 124pt;
     height: 264pt;
@@ -29,6 +22,3 @@
     width: 184pt;
     height: 100pt;
 }
-.logo2{
-    width: 86pt;
-    height: 25pt;
