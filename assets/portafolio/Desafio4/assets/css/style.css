@@ -3,15 +3,11 @@
     justify-content: end;
 }
 .logo{
-    width: 190pt;
-    height: 36pt;
+    width: 86pt;
+    height: 25pt;
 }
 .letra{
     font-family: roboto;
-}
-.foto{
-    width: 190pt;
-    height: 36pt;
 }
 .cupon{
     display: flex;
@@ -22,12 +18,12 @@
     justify-content: center;
 }
 .imagen{
-    width: 124pt;
-    height: 264pt;
+    width: 264pt;
+    height: 124pt;
 }
 .targeta{
     width: 184pt;
-    height: 100pt;
+    height: 264pt;
 }
 .logo2{
     width: 86pt;
